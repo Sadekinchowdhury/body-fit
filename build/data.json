@@ -1,0 +1,50 @@
+[
+    {
+        "name": "warm up",
+        "img": "https://images.unsplash.com/photo-1597586594276-456f8c50b82d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+        "desc": "warm up is very important for body building",
+        "time": 20,
+        "age": 22,
+        "id": 1
+    },
+    {
+        "name": "push up",
+        "img": "https://images.unsplash.com/photo-1598971457999-ca4ef48a9a71?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+        "desc": "push up is very important",
+        "time": 32,
+        "age": 30,
+        "id": 2
+    },
+    {
+        "name": "run",
+        "img": "https://images.unsplash.com/photo-1559166515-3452b9ed1e05?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+        "desc": "it is very important for body building and healthy",
+        "time": 20,
+        "age": 40,
+        "id": 3
+    },
+    {
+        "name": "hands up",
+        "img": "https://images.unsplash.com/photo-1528743141695-51cd1e7c7b3e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+        "desc": "it is very important for body building and healthy",
+        "time": 50,
+        "age": 40,
+        "id": 4
+    },
+    {
+        "name": "walk",
+        "img": "https://images.unsplash.com/photo-1519255122284-c3acd66be602?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=795&q=80",
+        "desc": "it is very important for body building and healthy",
+        "time": 10,
+        "age": 30,
+        "id": 5
+    },
+    {
+        "name": "dumble",
+        "img": "https://images.unsplash.com/photo-1584952449180-f8fddc0b03a3?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+        "desc": "it is very important for body building and healthy",
+        "time": 30,
+        "age": 10,
+        "id": 6
+    }
+]

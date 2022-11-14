@@ -22,7 +22,7 @@ const Header = () => {
                     <a href="/">Home</a>
                     <a href="/">Register</a>
 
-                    <a href="/blog">Blog</a>
+                    <a href="/">About us</a>
                 </div>
             </nav>
         </div>
