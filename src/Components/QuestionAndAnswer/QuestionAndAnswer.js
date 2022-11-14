@@ -5,11 +5,13 @@ import Accordion from 'react-bootstrap/Accordion';
 const QuestionAndAnswer = () => {
   return (
     <div className="accordion-container">
+      <h1 className='que'>Some questions</h1>
       <Accordion className="w-50 mx-auto accordion-content" flush>
         <Accordion.Item eventKey="0">
           <Accordion.Header>How Does React Works?</Accordion.Header>
 
           <Accordion.Body>
+
 
             <strong> How does it work:</strong> While building client-side apps,
             a team of Facebook developers realized that the DOM is slow (The
