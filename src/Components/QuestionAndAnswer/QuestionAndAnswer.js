@@ -60,7 +60,7 @@ const QuestionAndAnswer = () => {
             The useEffect Hook allows us to perform side effects in our
             components. Such as:
             Making a request to an API for data from a backend server Reading from local storage .Registering and deregistering event listeners To interact with browser APIs (that is, to use document or
-            window directly) Using unpredictable timing functions like setTimeout or setInterval
+            window directly) Using unpredictable timing functions like setTimeout or setInterval.we need to  learn this must.
 
 
           </Accordion.Body>
