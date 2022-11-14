@@ -21,7 +21,8 @@ const Header = () => {
                 <div className='link-header'>
                     <a href="/">Home</a>
                     <a href="/">Register</a>
-                    <a href="/">About Us</a>
+
+                    <a href="/blog">Blog</a>
                 </div>
             </nav>
         </div>

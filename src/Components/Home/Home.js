@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from "react";
 import Activity from "../Activity/Activity";
 import Cart from "../Cart/Cart";
+import QuestionAndAnswer from "../QuestionAndAnswer/QuestionAndAnswer";
 import "./Home.css";
 
 const Home = () => {
@@ -24,22 +25,26 @@ const Home = () => {
   // };
 
   return (
-    <div className="container">
-      <div className="home-container">
-        <div className=" activity-container">
-          {activities.map((activity) => (
-            <Activity
-              key={activity.id}
-              activity={activity}
-              handleAddToList={handleAddToList}
-            ></Activity>
-          ))}
-        </div>
+    <div>
+      <div className="container">
+        <div className="home-container">
+          <div className=" activity-container">
+            {activities.map((activity) => (
+              <Activity
+                key={activity.id}
+                activity={activity}
+                handleAddToList={handleAddToList}
+              ></Activity>
+            ))}
+          </div>
 
-        <div className="cart-container">
-          {<Cart cart={cart} position={position}></Cart>}
+          <div className="cart-container">
+            {<Cart cart={cart} position={position}></Cart>}
+          </div>
         </div>
       </div>
+
+      <QuestionAndAnswer></QuestionAndAnswer>
     </div>
   );
 };
