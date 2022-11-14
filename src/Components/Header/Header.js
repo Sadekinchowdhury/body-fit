@@ -8,7 +8,7 @@ import './Header.css';
 
 const Header = () => {
     return (
-     <div className='main-header'>
+        <div className='main-header'>
             <nav className='header'>
                 <div className='fitness-brand'>
 
