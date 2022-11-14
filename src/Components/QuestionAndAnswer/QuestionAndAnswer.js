@@ -25,6 +25,7 @@ const QuestionAndAnswer = () => {
             to update the browser's DOM. Unlike browser DOM elements, React
             elements are plain objects and are cheap to create. React DOM takes
             care of updating the DOM to match the React elements.
+            so we need lo learn how does reat word.
           </Accordion.Body>
         </Accordion.Item>
         <Accordion.Item eventKey="1">
